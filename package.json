@@ -1,0 +1,20 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "main": "cd",
+  "scripts": {
+    "test": "git remote add origin https://github.com/stellaexp/angular-todo.git"
+  },
+  "repository": {
+    "type": "git",
+    "url": "npm init"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "lesson"
+  ],
+  "author": "na",
+  "license": "ISC",
+  "description": ""
+}
